@@ -1,0 +1,1 @@
+# L-nge-eines-Arrays-ermitteln-mit-for-Schleife
